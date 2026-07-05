@@ -66,24 +66,3 @@ This page highlights top pay stub generators such as:
 
 ---
 
-# 📊 SEO Goal
-
-This project is built to:
-- Rank on Google for pay stub-related keywords  
-- Capture traffic from freelancers and small businesses  
-- Provide high CTR landing experience  
-- Improve AI search visibility (AIO optimized content)
-
----
-
-# ⚠️ Disclaimer
-
-This site is for informational and educational purposes only. Users should verify all external tools before use.
-
----
-
-# 📬 Contact
-
-For improvements or collaboration, feel free to fork the project and submit a pull request.
-
----
