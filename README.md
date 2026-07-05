@@ -6,6 +6,8 @@ A complete, self-contained HTML review page comparing the best free and paid pay
 
 This expert guide helps freelancers, small business owners, and HR folks pick the right tool for creating professional paystubs. It cuts through the noise around "free" offers that actually hide watermarks or force credit cards.
 
+url https://khejurcom-netizen.github.io/paystub/free-paystub-generator.html
+
 ### Top Free Picks Highlighted
 - **pdfpaystub.com** — 2 completely free paystubs, no watermark, no card required. Clean templates and solid 2026 tax calculations. Rated our top free pick.
 - **paystubsonline.net** — 1 free paystub + 20 professional templates included. Great design variety on the free tier.
